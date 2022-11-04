@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:bread"
+    },
+    "$": {
+      "item": "minecraft:steak"
+    }
+  },
+  "pattern": [
+    " # ",
+    " $ ",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:diamond_block"
+  }
+}
