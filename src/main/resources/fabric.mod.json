@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "foodtastic",
+  "version": "${version}",
+
+  "name": "FoodTastic",
+  "description": "This mod adds more food and cooking methods into the game.",
+  "authors": [
+    "No_Lifer69"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT Licence",
+  "icon": "assets/foodtastic.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.nolifer.foodtastic.FoodTastic"
+    ],
+    "client": [
+      "net.nolifer.foodtastic.FoodTasticClient"
+    ]
+  },
+  "mixins": [
+    "foodtastic.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "https://www.curseforge.com/minecraft/mc-mods/more-ores-fabric"
+  }
+}
