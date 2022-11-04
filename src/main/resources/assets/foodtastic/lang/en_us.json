@@ -1,3 +1,7 @@
 {
-  "item.foodtastic.hamburger": "Hamburger"
+  "item.foodtastic.hamburger": "Hamburger",
+  "item.foodtastic.orange": "Orange",
+  "item.foodtastic.banana": "Banana",
+  "item.foodtastic.blue_grape": "Blue Grape",
+  "item.foodtastic.green_grape": "Green Grape"
 }
