@@ -18,11 +18,11 @@ public class ModItems {
     public static final Item BANANA = registerItem("banana",
             new Item(new FabricItemSettings().group(ItemGroup.FOOD).food(ModFoodComponents.BANANA)));
 
-    public static final Item BLUE_GRAPE = registerItem("blue_grape",
-            new Item(new FabricItemSettings().group(ItemGroup.FOOD).food(ModFoodComponents.BLUE_GRAPE)));
+    public static final Item BLUE_GRAPES = registerItem("blue_grapes",
+            new Item(new FabricItemSettings().group(ItemGroup.FOOD).food(ModFoodComponents.BLUE_GRAPES)));
 
-    public static final Item GREEN_GRAPE = registerItem("green_grape",
-            new Item(new FabricItemSettings().group(ItemGroup.FOOD).food(ModFoodComponents.GREEN_GRAPE)));
+    public static final Item GREEN_GRAPES = registerItem("green_grapes",
+            new Item(new FabricItemSettings().group(ItemGroup.FOOD).food(ModFoodComponents.GREEN_GRAPES)));
 
 
     private static Item registerItem(String name, Item item){

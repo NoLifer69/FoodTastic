@@ -3,5 +3,8 @@
   "item.foodtastic.orange": "Orange",
   "item.foodtastic.banana": "Banana",
   "item.foodtastic.blue_grape": "Blue Grape",
-  "item.foodtastic.green_grape": "Green Grape"
+  "item.foodtastic.green_grape": "Green Grape",
+
+  "block.foodtastic.green_grape_bush": "Green Grape Bush",
+  "block.foodtastic.blue_grape_bush": "Blue Grape Bush"
 }
