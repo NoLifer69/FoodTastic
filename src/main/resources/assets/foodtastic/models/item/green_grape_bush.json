@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "foodtastic:item/blue_grape"
+    "layer0": "foodtastic:item/green_grape"
   }
 }
